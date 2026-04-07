@@ -1,6 +1,9 @@
-# 💫 About Me:
-Hi 👋, I'm Haseeb  <br><br>🚀 Data Scientist | AI Developer | Software Engineering Student  <br><br>I am passionate about building real-world Machine Learning and AI solutions.  <br>I focus on solving practical problems using data, creating intelligent systems,  <br>and continuously improving my skills through hands-on projects.  <br><br>💡 I believe in learning by building and turning ideas into impactful applications.  <br><br>🎯 My goal is to become an expert AI Engineer and contribute to innovative, real-world technologies.  <br><br><br>🚀 I’m currently working on:<br>- Real-world Machine Learning projects <br>- End-to-end ML pipelines (Data → Model → Deployment)<br><br>🤝 I’m looking to collaborate on:<br>- AI / Machine Learning projects<br>- Data Science and real-world problem-solving projects<br><br><br>🌱 I’m currently learning:<br>- Advanced Machine Learning<br>- Deep Learning basics<br>- Model optimization & performance tuning<br><br>💬 Ask me about:<br>- Machine Learning projects<br>- Data preprocessing & model building<br>- Python for Data Science<br><br>⚡ Fun fact:<br>- I prefer building real projects over just watching tutorials 🚀
+🚀 Data Scientist | AI Developer | Software Engineer
 
+Building real-world ML systems from data → model → deployment.
+Turning complex data into intelligent, practical solutions.
+
+💡 Projects focused on prediction, automation & real-world impact
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haseeb-jamali-6934a932a/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulhaseebjamali04@gmail.com) 
