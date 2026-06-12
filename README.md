@@ -1,4 +1,4 @@
-🚀 Data Scientist | AI Developer | Software Engineer
+          Data Scientist | AI Developer 
 
 Building real-world ML systems from data → model → deployment.
 Turning complex data into intelligent, practical solutions.
