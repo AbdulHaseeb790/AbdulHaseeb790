@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abdul+Haseeb+%F0%9F%91%8B;Full+Stack+AI+Developer;Building+AI+Agents+%26+RAG+Systems;LangChain+%7C+LangGraph+%7C+FastAPI)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=AbdulHaseeb790&label=Profile%20Views&color=6E40C9&style=flat-square" alt="visitor badge" />
+
 
 </div>
 
@@ -22,9 +22,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,git,github,vscode,streamlit&theme=dark)](https://skillicons.dev)
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,opencv,mysql,streamlit,git,github,numpy,matplotlib,docker&theme=dark)](https://skillicons.dev)
 
 ---
 
