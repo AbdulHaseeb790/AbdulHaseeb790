@@ -7,20 +7,14 @@
 </div>
 
 ---
-
 ## 🧠 About Me
 
-```python
-developer = {
-    "name"        : "Abdul Haseeb",
-    "location"    : "Hyderabad, Pakistan 🇵🇰",
-    "role"        : "Full Stack AI Developer",
-    "working_on"  : ["AI Agents", "RAG Systems"],
-    "learning"    : ["LangGraph", "AI in Production"],
-    "ask_me_about": ["LangChain", "RAG", "LangGraph", "FastAPI", "HuggingFace"],
-    "goal"        : "Building intelligent systems that solve real-world problems"
-}
-```
+- 🔭 I'm currently working on **AI Agents & RAG Systems**
+- 🌱 I'm currently learning **LangGraph & AI in Production**
+- 💬 Ask me about **LangChain, RAG, LangGraph, FastAPI, HuggingFace**
+- ⚡ Fun fact: The entire internet is retrained into ChatGPT — yet it still hallucinates
+
+
 
 ---
 
