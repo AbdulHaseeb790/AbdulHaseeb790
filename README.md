@@ -22,7 +22,14 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,opencv,mysql,streamlit,git,github,numpy,matplotlib,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,opencv,mysql,streamlit,git,github,docker&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6E40C9?style=for-the-badge&logo=graphql&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 ---
 
