@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abdul+Haseeb+%F0%9F%91%8B;Full+Stack+AI+Developer;Building+AI+Agents+%26+RAG+Systems;LangChain+%7C+LangGraph+%7C+FastAPI)](https://git.io/typing-svg)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulHaseeb790&color=blue)
 
 </div>
 
